@@ -1,0 +1,136 @@
+baseURL: "https://ouailderghal.github.io/"
+locale: en-US
+title: "Ouail Derghal"
+theme: FixIt
+
+params:
+  version: "1.0.X"
+  description: "Ouail Derghal — DevOps Engineer. Cloud automation, CI/CD, containers and infrastructure as code."
+  keywords: [Ouail Derghal, DevOps Engineer, Cloud, CI/CD, Docker, Kubernetes, Terraform, Ansible]
+  default_theme: auto
+
+  search:
+    enable: false
+
+  app:
+    svg_favicon: "/tux.svg"
+
+  author:
+    name: "Ouail Derghal"
+    email: "ouailderghal@protonmail.com"
+    avatar: "/images/profile.jpg"
+
+  header:
+    title:
+      name: "Ouail Derghal"
+
+  home:
+    profile:
+      enable: true
+      avatar_url: "/images/profile.jpg"
+      title: "Ouail Derghal"
+      subtitle: |
+        DevOps Engineer
+
+        <div class="profile-keywords">
+        <span class="kw">Cloud Automation</span>
+        <span class="kw">CI/CD</span>
+        <span class="kw">Containers</span>
+        <span class="kw">Infrastructure as Code</span>
+        </div>
+
+        <div class="profile-location">📍 Brest, France</div>
+      typeit: false
+      social: true
+    posts:
+      enable: false
+
+  social:
+    RSS: false
+    Email:
+      id: "ouailderghal@protonmail.com"
+      weight: 10
+    Linkedin:
+      id: ouailderghal
+      weight: 20
+    Github:
+      id: ouailderghal
+      weight: 30
+    Googlescholar:
+      id: "user=pc6192kAAAAJ"
+      weight: 40
+      icon:
+        class: "fa-brands fa-google-scholar"
+    Orcid:
+      id: "0009-0007-0645-6948"
+      weight: 50
+    upwork:
+      id: "~01ed15af115454c6f7"
+      prefix: "https://www.upwork.com/freelancers/"
+      title: "Upwork"
+      weight: 60
+      icon:
+        class: "fa-brands fa-upwork"
+    fiverr:
+      id: ouailderghal1
+      prefix: "https://www.fiverr.com/"
+      title: "Fiverr"
+      weight: 70
+      icon:
+        simpleicons: fiverr
+
+  footer:
+    powered:
+      enable: false
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+    parser:
+      attribute:
+        block: true
+        title: true
+    extensions:
+      definitionList: true
+      footnote: true
+      linkify: true
+      linkifyProtocol: https
+      strikethrough: false
+      table: true
+      taskList: true
+      typographer: true
+      extras:
+        delete:
+          enable: true
+        insert:
+          enable: true
+        mark:
+          enable: true
+
+menu:
+  main:
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 10
+      params:
+        icon: "fa-solid fa-user"
+    - identifier: experience
+      name: Experience
+      url: /experience/
+      weight: 20
+      params:
+        icon: "fa-solid fa-briefcase"
+    - identifier: publications
+      name: Publications
+      url: /publications/
+      weight: 30
+      params:
+        icon: "fa-solid fa-book"
+    - identifier: testimonials
+      name: Testimonials
+      url: /testimonials/
+      weight: 40
+      params:
+        icon: "fa-solid fa-star"
