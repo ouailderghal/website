@@ -2,7 +2,7 @@
 title: "Experience"
 ---
 
-### PhD Researcher — [IMT Atlantique](https://www.imt-atlantique.fr/en), Brest, France
+### PhD Researcher — [IMT Atlantique](https://www.imt-atlantique.fr/en), Brest, France *(Full-time)*
 *January 2024 – present*
 
 <div class="pills">
@@ -14,7 +14,7 @@ title: "Experience"
 <span class="pill">Kubernetes</span>
 </div>
 
-- Thesis **"Secure Continuous Deployment for the Cloud"**: constraint-driven multi-cloud deployment.
+- Thesis **["Secure Continuous Deployment for the Cloud"](https://theses.fr/s386452)**: constraint-driven multi-cloud deployment.
 - Supervised by [J.-C. Bach](https://p4s.enstb.org/perso/jc_bach) and [F. Dagnat](https://p4s.enstb.org/perso/fabien_dagnat) ([P4S](https://p4s.enstb.org/), Lab-STICC).
 - Designed a domain-specific language (DSL) to specify application requirements and infrastructure constraints.
 - Formalized deployment as an SMT problem, with formal reasoning about plan consistency.
@@ -23,17 +23,37 @@ title: "Experience"
 - [Paper](/publications/) published at the IC2E 2025 conference (runner-up, best-paper award); a second paper is under review at SEFM 2026.
 - Conference presentations and participation in seminars and scientific events.
 
-**Teaching** — 110h across 2 assignments for engineering students:
+### Teaching Assistant — [IMT Atlantique](https://www.imt-atlantique.fr/en), Brest, France *(Part-time)*
+*September 2024 – May 2026*
 
-| Year | Course | Format | Hours |
-|---|---|---|---|
-| 1st year | Programming | Lab | 31h |
-| 1st year | Algorithms | Tutorial | 13h |
-| 1st year | Databases | Lab | 13h |
-| 1st year | Project work | Lab | 20h |
-| 2nd year | Codecamp | Lab | 20h |
-| 2nd year | Developer tools | Lab | 5h |
-| 3rd year | Distributed systems analysis | Tutorial | 8h |
+<div class="pills">
+<span class="pill">Python</span>
+<span class="pill">Java</span>
+<span class="pill">Go</span>
+<span class="pill">SQL</span>
+<span class="pill">Git</span>
+</div>
+
+- 110h across 2 assignments for engineering students.
+- Prepared lab sessions and tutorials, and graded assignments.
+
+| Year | Course | Format | Hours | Language | Keywords |
+|---|---|---|---|---|---|
+| 1st | Programming | Lab | 31h | 🇫🇷 French | Python, OOP, Testing, Copilot |
+| 1st | Algorithms | Tutorial | 13h | 🇫🇷 French | Recursion, Data structures, Complexity, Dynamic programming |
+| 1st | Databases | Lab | 13h | 🇫🇷 French | SQL, Normalization, UML, Persistence |
+| 1st | Project work | Lab | 20h | 🇫🇷 French | Java, Networking, Vert.x, UML |
+| 2nd | Codecamp | Lab | 20h | 🇫🇷 French | Python, CLI, Code review, argparse |
+| 2nd | Developer tools | Lab | 5h | 🇫🇷 French | Git, Terminal, IDE, AI tools |
+| 3rd | Distributed systems analysis | Tutorial | 8h | 🇫🇷 French | Go, Consensus, Leader election, Gossip |
+
+- **[Programming](https://hub.imt-atlantique.fr/ueinfo-fise1a/s5/prog/index.html)**: taught Python fundamentals, object-oriented programming, testing and defensive programming, documentation/code quality conventions, and AI-assisted programming with GitHub Copilot.
+- **[Algorithms](https://hub.imt-atlantique.fr/ueinfo-fise1a/s5/algo/index.html)**: taught algorithm design, recursion, data structures, complexity analysis, and divide-and-conquer and dynamic programming strategies.
+- **[Databases](https://hub.imt-atlantique.fr/ueinfo-fise1a/s6/data/index.html)**: taught relational database principles, SQL, schema normalization, conceptual (UML) modeling, and data persistence in object-oriented applications.
+- **[Project work](https://hub.imt-atlantique.fr/ueinfo-fise1a/s6/project/index.html)**: supervised student teams building a smart-grid system in Java, integrating networking, UML design, and database persistence with the [Vert.x](https://vertx.io/) framework.
+- **Codecamp**: coached student groups building a Python CLI task-management tool from a common base, incrementally adding self-chosen extensions, with peer code review and cross-team validation of code quality, functionality, and documentation.
+- **[Developer tools](https://hub.imt-atlantique.fr/ueinfo-fise1a/s5/env/index.html)**: taught the development environment: operating systems, file systems, terminal usage, IDE setup, version control with Git/GitLab, and AI-assisted development practices.
+- **Distributed systems analysis**: taught distributed algorithms in Go through hands-on labs: message passing, leader election, failure detection, broadcast/gossip protocols, and voting-based (Byzantine-tolerant) probabilistic consensus.
 
 ### Freelance DevOps Engineer — [Fiverr](https://www.fiverr.com/ouailderghal1), [Upwork](https://www.upwork.com/freelancers/~01ed15af115454c6f7) *(Remote)*
 *March 2023 – October 2025*
