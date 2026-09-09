@@ -9,6 +9,11 @@ params:
   keywords: [Ouail Derghal, DevOps Engineer, Cloud, CI/CD, Docker, Kubernetes, Terraform, Ansible]
   default_theme: auto
 
+  page:
+    library:
+      css:
+        custom: css/custom.css
+
   search:
     enable: false
 
