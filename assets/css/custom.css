@@ -107,6 +107,10 @@
     grid-template-columns: repeat(5, 1fr);
 }
 
+.stats-row-4 {
+    grid-template-columns: repeat(4, 1fr);
+}
+
 .stats-row-2 {
     grid-template-columns: repeat(2, 1fr);
 }
@@ -129,7 +133,8 @@
 }
 
 @media (max-width: 640px) {
-    .stats-row-5 {
+    .stats-row-5,
+    .stats-row-4 {
         grid-template-columns: repeat(2, 1fr);
     }
 }

@@ -10,12 +10,11 @@ delivered projects between 2023 and 2025.
 
 <div class="stats-group">
 <div class="stats-group-label"><a href="https://www.fiverr.com/ouailderghal1" target="_blank" rel="noopener noreferrer">Fiverr</a></div>
-<div class="stats-row stats-row-5">
+<div class="stats-row stats-row-4">
 <div><strong>5.0 / 5</strong><span>Rating</span></div>
 <div><strong>65</strong><span>Reviews</span></div>
 <div><strong>5.0</strong><span>Communication</span></div>
 <div><strong>4.9</strong><span>Quality of Delivery</span></div>
-<div><strong>4.9</strong><span>Value of Delivery</span></div>
 </div>
 </div>
 
@@ -94,4 +93,4 @@ delivered projects between 2023 and 2025.
 </div>
 
 [See all reviews on Fiverr](https://www.fiverr.com/ouailderghal1) &nbsp;·&nbsp;
-[See profile on Upwork](https://www.upwork.com/freelancers/~01ed15af115454c6f7)
+[See all reviews on Upwork](https://www.upwork.com/freelancers/~01ed15af115454c6f7)
